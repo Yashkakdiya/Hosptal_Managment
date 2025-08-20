@@ -1,0 +1,28 @@
+2025-04-23 11:27:54.268 DEBUG logging: Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2025-04-23 11:27:54.507 INFO HospitalApplication: Starting HospitalApplication using Java 11.0.26 on yashkakdiya.local with PID 782 (/Users/yashcomputers/Downloads/hospital 2/target/classes started by yashcomputers in /Users/yashcomputers/Downloads/hospital 2)
+2025-04-23 11:27:54.513 DEBUG HospitalApplication: Running with Spring Boot v2.6.2, Spring v5.3.14
+2025-04-23 11:27:54.513 INFO HospitalApplication: No active profile set, falling back to default profiles: default
+2025-04-23 11:28:04.095 INFO HospitalApplication: Started HospitalApplication in 10.682 seconds (JVM running for 13.907)
+2025-04-23 13:41:22.674 DEBUG logging: Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2025-04-23 13:41:23.592 INFO HospitalApplication: Starting HospitalApplication using Java 11.0.26 on yashkakdiya.local with PID 2175 (/Users/yashcomputers/Downloads/hospital 2/target/classes started by yashcomputers in /Users/yashcomputers/Downloads/hospital 2)
+2025-04-23 13:41:23.602 DEBUG HospitalApplication: Running with Spring Boot v2.6.2, Spring v5.3.14
+2025-04-23 13:41:23.603 INFO HospitalApplication: No active profile set, falling back to default profiles: default
+2025-04-23 13:41:32.216 INFO HospitalApplication: Started HospitalApplication in 13.135 seconds (JVM running for 18.522)
+2025-04-23 13:44:33.387 DEBUG AppointmentsController: inside saveAppoinments appoinments: Appoinments(name=narayn, email=narayan@gmail.com, time=afternoon, doctor=3)
+2025-04-23 14:55:13.316 DEBUG logging: Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2025-04-23 14:55:13.620 INFO HospitalApplication: Starting HospitalApplication using Java 11.0.26 on yashkakdiya.local with PID 3289 (/Users/yashcomputers/Downloads/hospital 2/target/classes started by yashcomputers in /Users/yashcomputers/Downloads/hospital 2)
+2025-04-23 14:55:13.637 DEBUG HospitalApplication: Running with Spring Boot v2.6.2, Spring v5.3.14
+2025-04-23 14:55:13.637 INFO HospitalApplication: No active profile set, falling back to default profiles: default
+2025-04-23 14:55:22.151 INFO HospitalApplication: Started HospitalApplication in 9.933 seconds (JVM running for 14.659)
+2025-04-23 14:58:20.447 DEBUG AppointmentsController: inside saveAppoinments appoinments: Appoinments(name=Yash kakdiya, email=yashkakdiya2004@gmail.com, time=evening, doctor=6)
+2025-04-23 15:02:31.870 DEBUG logging: Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2025-04-23 15:02:32.043 INFO HospitalApplication: Starting HospitalApplication using Java 11.0.26 on yashkakdiya.local with PID 3433 (/Users/yashcomputers/Downloads/hospital 2/target/classes started by yashcomputers in /Users/yashcomputers/Downloads/hospital 2)
+2025-04-23 15:02:32.063 DEBUG HospitalApplication: Running with Spring Boot v2.6.2, Spring v5.3.14
+2025-04-23 15:02:32.063 INFO HospitalApplication: No active profile set, falling back to default profiles: default
+2025-04-23 15:02:39.270 INFO HospitalApplication: Started HospitalApplication in 7.948 seconds (JVM running for 9.928)
+2025-04-23 15:04:53.426 DEBUG AppointmentsController: inside saveAppoinments appoinments: Appoinments(name=narayn123, email=narayan@gmail.com, time=morning, doctor=6)
+2025-04-23 20:09:36.611 DEBUG logging: Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2025-04-23 20:09:36.759 INFO HospitalApplication: Starting HospitalApplication using Java 11.0.26 on yashkakdiya.local with PID 6902 (/Users/yashcomputers/Downloads/hospital 2/target/classes started by yashcomputers in /Users/yashcomputers/Downloads/hospital 2)
+2025-04-23 20:09:36.767 DEBUG HospitalApplication: Running with Spring Boot v2.6.2, Spring v5.3.14
+2025-04-23 20:09:36.767 INFO HospitalApplication: No active profile set, falling back to default profiles: default
+2025-04-23 20:09:43.045 INFO HospitalApplication: Started HospitalApplication in 7.182 seconds (JVM running for 11.097)

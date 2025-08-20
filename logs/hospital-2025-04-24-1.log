@@ -1,0 +1,5 @@
+2025-04-24 11:32:49.008 DEBUG logging: Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2025-04-24 11:32:49.616 INFO HospitalApplication: Starting HospitalApplication using Java 11.0.26 on yashkakdiya.local with PID 8897 (/Users/yashcomputers/Downloads/hospital 2/target/classes started by yashcomputers in /Users/yashcomputers/Downloads/hospital 2)
+2025-04-24 11:32:49.626 DEBUG HospitalApplication: Running with Spring Boot v2.6.2, Spring v5.3.14
+2025-04-24 11:32:49.627 INFO HospitalApplication: No active profile set, falling back to default profiles: default
+2025-04-24 11:33:03.978 INFO HospitalApplication: Started HospitalApplication in 16.69 seconds (JVM running for 22.086)
